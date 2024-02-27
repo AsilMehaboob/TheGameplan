@@ -4,7 +4,7 @@ export default class Player extends Component {
 	render() {
 		let player = this.props.player;
 		return (
-			<div data-attr={this.props.index} className="player-card" style={{...this.props.style, background: "rgba(0, 0, 0, 0) url('"+player.pic+"') repeat scroll center top / cover", backgroundSize: "cover", backgroundPosition: "top"}}>
+			<div data-attr={this.props.index} className="player-card" style={{...this.props.style, background: "rgba(0, 0, 0) url('"+player.pic+"') repeat scroll center top / cover", backgroundSize: "contain", backgroundRepeat: "no-repeat", backgroundPosition: "top"}}>
                 {/* <img className="player-img" src={player.pic}/> */}
                 <div className="player-det">
 					<span className="rank-name">{player.name}</span>

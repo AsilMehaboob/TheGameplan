@@ -59,7 +59,7 @@ export default class Play extends Component {
 		let players = JSON.parse(localStorage.getItem('players'));
 		let length = players.length;
 		if(length==1){
-			fetch('/new_list_1.json').then(response => response.json()).then(data => {
+			fetch('/player_data.json').then(response => response.json()).then(data => {
 				let players = data;
 				//players.sort(function(a,b){return 0.5 - Math.random()});
 				console.log(players);
