@@ -8,7 +8,7 @@ export default class Team extends Component {
 			<li key={i}>{obj.name}({obj.position})</li>
 		));
 		let style={};
-		if(players.length==11)
+		if(players.length==15)
 			style={color:"#32c799"};
 		else if(this.props.team.amount==0)
 			style={opacity:"0.1"};
@@ -16,7 +16,7 @@ export default class Team extends Component {
 			<div className="team-card" style={style}>
                 <img className="team-img" src={this.props.team.image}/>
                 <div className="team-det">
-					<div><span className="team-name">{this.props.team.name}</span><span className="team-count">{players.length} / 11</span></div>
+					<div><span className="team-name">{this.props.team.name}</span><span className="team-count">{players.length} / 15</span></div>
 					<div>
 						<span className="budget-text">Remaining Budget:</span>
 						<span className="team-budget">$<AnimatedNumber component="text" value={this.props.team.amount} style={{fontSize: 20}} duration={1000} stepPrecision={0}/>M</span>

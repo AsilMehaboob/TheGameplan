@@ -9,7 +9,7 @@ export default class Team extends Component {
 	render() {
 		let style = "team-button";
 		let func = this.changeTeam.bind(this);
-		if(this.props.bid>this.props.team.amount || this.props.team.players.length==11){
+		if(this.props.bid>this.props.team.amount || this.props.team.players.length==15){
 			style += " inactive";
 			func = function(){console.log("Insufficient Funds")};
 		}
