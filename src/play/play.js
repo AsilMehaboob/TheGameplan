@@ -14,13 +14,12 @@ export default class Play extends Component {
 		super(props);
 		this.state = {
 			"playerId": 0,
-			"biddingTeam": 6,
+			"biddingTeam": 4,
 			"teams": [
 				{"name": "Manchester United", "image":"/images/teams/manchester.png", "amount":500, "players": []},
 				{"name": "FC Barcelona", "image":"/images/teams/barcelona.png", "amount":500, "players": []},
 				{"name": "Chelsea", "image":"/images/teams/chelsea.png", "amount":500, "players": []},
 				{"name": "Real Madrid", "image":"/images/teams/realmadrid.png", "amount":500, "players": []},
-				{"name": "Arsenal", "image":"/images/teams/arsenal.png", "amount":500, "players": []}
 			],
 			"players": [{
 				"id": 49,
@@ -77,7 +76,7 @@ export default class Play extends Component {
 		let players = this.state.players;
 		let bid = this.state.currentBid;
 		let team = this.state.biddingTeam;
-		if( team>=0 && team<=4 ){
+		if( team>=0 && team<4 ){
 			let amount = teams[team].amount - bid;
 			players[this.state.playerId].sellingPrice = bid;
 			teams[team].amount = amount;
@@ -88,7 +87,7 @@ export default class Play extends Component {
 
 	changeBid(event){
 		console.log(event.target.value);
-		this.setState({"currentBid": event.target.value, "biddingTeam": 6});
+		this.setState({"currentBid": event.target.value, "biddingTeam": 4});
 	}
 
 	nextPlayer(){
@@ -98,13 +97,13 @@ export default class Play extends Component {
 			players.splice(this.state.playerId, 1);
 			playerId = (playerId) % (players.length);
 			let currentBid = (players[playerId]).basePrice;
-			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 6});
+			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 4});
 		}
 		else{
 			playerId = (playerId + 1)%this.state.players.length;
 			console.log(playerId);
 			let currentBid = (this.state.players[playerId]).basePrice;
-			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
+			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 4});
 		}
 
 	}
@@ -116,13 +115,13 @@ export default class Play extends Component {
 			players.splice(this.state.playerId, 1);
 			playerId = (players.length + playerId-1) % (players.length);
 			let currentBid = (players[playerId]).basePrice;
-			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 6});
+			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 4});
 		}
 		else{
 			playerId = (this.state.players.length + playerId - 1)%this.state.players.length;
 			console.log(playerId);
 			let currentBid = (this.state.players[playerId]).basePrice;
-			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
+			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 4});
 		}
 
 	}
@@ -175,7 +174,6 @@ export default class Play extends Component {
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==1?"active":"inactive"} team={this.state.teams[1]} click="1" func={this.changeTeam.bind(this)}/>
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==2?"active":"inactive"} team={this.state.teams[2]} click="2" func={this.changeTeam.bind(this)}/>
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==3?"active":"inactive"} team={this.state.teams[3]} click="3" func={this.changeTeam.bind(this)}/>
-							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==4?"active":"inactive"} team={this.state.teams[4]} click="4" func={this.changeTeam.bind(this)}/>
 
 							<input id="price-tag" value={this.state.currentBid} onChange={this.changeBid.bind(this)}></input>
 							<span className="button" onClick={this.prevPlayer.bind(this)}>
@@ -197,7 +195,7 @@ export default class Play extends Component {
 						<Team team={this.state.teams[1]}/>
 						<Team team={this.state.teams[2]}/>
 						<Team team={this.state.teams[3]}/>
-						<Team team={this.state.teams[4]}/>
+
 					</div>
 					<script src="/bootstrap.js" />
 				</div>
