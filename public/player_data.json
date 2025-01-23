@@ -93,7 +93,7 @@
      {
       "rank": 14,
       "name": "Joshua Kimmich",
-      "position": "CDM",
+      "position": "RB",
       "basePrice": 45,
       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212622.png?padding=0.7"
      },
@@ -494,7 +494,7 @@
       "name": "Matthijs de Ligt",
       "position": "CB",
       "basePrice": 25,
-      "pic": "https:\/\/www.ea.com\/_next\/static\/media\/commonGoldShield.109035f4.png"
+      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235243.png?padding=0.7"
      },
      {
       "rank": 72,
@@ -684,6 +684,20 @@
       "position": "RW",
       "basePrice": 20,
       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p183898.png?padding=0.7"
+     },
+     {
+      "rank": 99,
+      "name": "Carvajal",
+      "position": "RB",
+      "basePrice": 20,
+      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204963.png?padding=0.7"
+     },
+     {
+      "rank": 100,
+      "name": "Kieran Trippier",
+      "position": "RB",
+      "basePrice": 20,
+      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186345.png?padding=0.7"
      }
     ]
     

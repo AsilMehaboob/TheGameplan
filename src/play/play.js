@@ -5,7 +5,7 @@ import Team from './team';
 import TeamButton from './team-button';
 import { FaArrowRight, FaDollar, FaArrowLeft } from 'react-icons/lib/fa';
 // import { FasUndo } from 'react-icons/fas'
-import background from './background.jpg';
+import background from './background.png';
 
 import './play.css'
 
@@ -16,8 +16,8 @@ export default class Play extends Component {
 			"playerId": 0,
 			"biddingTeam": 4,
 			"teams": [
-				{"name": "Manchester United", "image":"/images/teams/manchester.png", "amount":500, "players": []},
-				{"name": "FC Barcelona", "image":"/images/teams/barcelona.png", "amount":500, "players": []},
+				{"name": "Manchester United", "image":"/images/teams/manchesterunited.png", "amount":500, "players": []},
+				{"name": "FC Barcelona", "image":"/images/teams/fcbarcelona.png", "amount":500, "players": []},
 				{"name": "Chelsea", "image":"/images/teams/chelsea.png", "amount":500, "players": []},
 				{"name": "Real Madrid", "image":"/images/teams/realmadrid.png", "amount":500, "players": []},
 			],

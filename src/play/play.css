@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+
 .header{
     background: rgba(30, 30, 42, 0.78);
     text-align: center;
@@ -7,11 +9,13 @@
     line-height: 75px;
     font-size: 45px;
     color: #d0e89a;
-    font-family: Oswald;
+    font-family: "Libre Franklin", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
 }
 
 .play{
-    font-family: "Open Sans";
+    font-family: "Montserrat";
     height: 100vh;
     width: 100vw;
     overflow: hidden;
@@ -42,9 +46,10 @@
     overflow-y: auto;
 }
 
+
 .player-card{
-    width: 90%;
-    height: 570px;
+    width: 610px;
+    height: 600px;
     /* padding: 20px; */
     background-size: "cover";
     background-position: "top";
@@ -110,7 +115,7 @@
 
 .player-stats{
     width: 100%;
-    font-family: "Josefin Sans";
+    font-family: "Montserrat";
 }
 
 .player-stat{
@@ -135,7 +140,7 @@
     padding: 10px 35px;
     color: #d0e89a;
     border-color: #d0e89a;
-    font-family: Oswald;
+    font-family: Montserrat;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     /* background: rgba(255,255,255,0.8); */
@@ -156,6 +161,7 @@
     /* color: #D00A2D; */
     background: #d0e89a;
     color: #201d56;
+    font-family: Montserrat;
 }
 
 .team-button.active{
@@ -174,7 +180,7 @@
     text-align: right;
     outline: none;
     margin: 0px auto 10px;
-    font-family: "Open Sans";
+    font-family: "Montserrat";
     font-weight: 900;
     font-size: 20px;
     width: 75px;
@@ -182,7 +188,7 @@
 }
 
 .button{
-    font-family: Oswald;
+    font-family: Montserrat;
     padding: 1px;
     border-style: solid;
     border-radius: 30px;
