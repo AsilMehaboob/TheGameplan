@@ -1,765 +1,689 @@
 [
-    {
-        "rank": "1",
-        "name": "Karim Benzema",
-        "position": "CF",
-        "basePrice": "55",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/165153.png"
-    },
-    {
-        "rank": "2",
-        "name": "Robert Lewandowski",
-        "position": "ST",
-        "basePrice": "55",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/188545.png"
-    },
-    {
-        "rank": "3",
-        "name": "Kylian Mbappe",
-        "position": "ST",
-        "basePrice": "55",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/231747.png"
-    },
-    {
-        "rank": "4",
-        "name": "Kevin De Bruyne",
-        "position": "CM",
-        "basePrice": "55",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192985.png"
-    },
-    {
-        "rank": "5",
-        "name": "Lionel Messi",
-        "position": "RW",
-        "basePrice": "55",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/158023.png"
-    },
-    {
-        "rank": "6",
-        "name": "Mohamed Salah",
-        "position": "RW",
-        "basePrice": "50",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/209331.png"
-    },
-    {
-        "rank": "7",
-        "name": "Virgil van Dijk",
-        "position": "CB",
-        "basePrice": "50",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/203376.png"
-    },
-    {
-        "rank": "8",
-        "name": "Cristiano Ronaldo",
-        "position": "ST",
-        "basePrice": "50",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/20801.png"
-    },
-    {
-        "rank": "9",
-        "name": "Thibaut Courtois",
-        "position": "GK",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192119.png"
-    },
-    {
-        "rank": "10",
-        "name": "Manuel Neuer",
-        "position": "GK",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/167495.png"
-    },
-    {
-        "rank": "11",
-        "name": "Neymar Jr",
-        "position": "LW",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/190871.png"
-    },
-    {
-        "rank": "12",
-        "name": "Heung Min Son",
-        "position": "LW",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/200104.png"
-    },
-    {
-        "rank": "13",
-        "name": "Sadio Mane",
-        "position": "LM",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/208722.png"
-    },
-    {
-        "rank": "14",
-        "name": "Joshua Kimmich",
-        "position": "CDM",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212622.png"
-    },
-    {
-        "rank": "15",
-        "name": "Casemiro",
-        "position": "CDM",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/200145.png"
-    },
-    {
-        "rank": "16",
-        "name": "Alisson",
-        "position": "GK",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212831.png"
-    },
-    {
-        "rank": "17",
-        "name": "Harry Kane",
-        "position": "ST",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/202126.png"
-    },
-    {
-        "rank": "18",
-        "name": "Ederson",
-        "position": "GK",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/210257.png"
-    },
-    {
-        "rank": "19",
-        "name": "N'Golo Kante",
-        "position": "CDM",
-        "basePrice": "45",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/215914.png"
-    },
-    {
-        "rank": "20",
-        "name": "Jan Oblak",
-        "position": "GK",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/200389.png"
-    },
-    {
-        "rank": "21",
-        "name": "Erling Haaland",
-        "position": "ST",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/239085.png"
-    },
-    {
-        "rank": "22",
-        "name": "Toni Kroos",
-        "position": "CM",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/182521.png"
-    },
-    {
-        "rank": "23",
-        "name": "Marquinhos",
-        "position": "CB",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/207865.png"
-    },
-    {
-        "rank": "24",
-        "name": "Luka Modric",
-        "position": "CM",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/177003.png"
-    },
-    {
-        "rank": "25",
-        "name": "Joao Cancelo",
-        "position": "LB",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/210514.png"
-    },
-    {
-        "rank": "26",
-        "name": "Ruben Dias",
-        "position": "CB",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/239818.png"
-    },
-    {
-        "rank": "27",
-        "name": "Gianluigi Donnarumma",
-        "position": "GK",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/230621.png"
-    },
-    {
-        "rank": "28",
-        "name": "Bernardo Silva",
-        "position": "CAM",
-        "basePrice": "40",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/218667.png"
-    },
-    {
-        "rank": "29",
-        "name": "Marc-Andre ter Stegen",
-        "position": "GK",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192448.png"
-    },
-    {
-        "rank": "30",
-        "name": "Keylor Navas",
-        "position": "GK",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/193041.png"
-    },
-    {
-        "rank": "31",
-        "name": "Fabinho",
-        "position": "CDM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/209499.png"
-    },
-    {
-        "rank": "32",
-        "name": "Thomas Muller",
-        "position": "CAM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/189596.png"
-    },
-    {
-        "rank": "33",
-        "name": "Rodri",
-        "position": "CDM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/231866.png"
-    },
-    {
-        "rank": "34",
-        "name": "Mike Maignan",
-        "position": "GK",
-        "basePrice": "15",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/215698.png"
-    },
-    {
-        "rank": "35",
-        "name": "Antonio Rudiger",
-        "position": "CB",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/205452.png"
-    },
-    {
-        "rank": "36",
-        "name": "Andrew Robertson",
-        "position": "LB",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/216267.png"
-    },
-    {
-        "rank": "37",
-        "name": "Kalidou Koulibaly",
-        "position": "CB",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/201024.png"
-    },
-    {
-        "rank": "38",
-        "name": "Frenkie de Jong",
-        "position": "CM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/228702.png"
-    },
-    {
-        "rank": "39",
-        "name": "Marco Verratti",
-        "position": "CM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/199556.png"
-    },
-    {
-        "rank": "40",
-        "name": "Leon Goretzka",
-        "position": "CM",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/209658.png"
-    },
-    {
-        "rank": "41",
-        "name": "Trent Alexander-Arnold",
-        "position": "RB",
-        "basePrice": "35",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/231281.png"
-    },
-    {
-        "rank": "42",
-        "name": "Hugo Lloris",
-        "position": "GK",
-        "basePrice": "15",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/167948.png"
-    },
-    {
-        "rank": "43",
-        "name": "De Gea",
-        "position": "GK",
-        "basePrice": "15",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/193080.png"
-    },
-    {
-        "rank": "44",
-        "name": "Vinicius Jr.",
-        "position": "LW",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/238794.png"
-    },
-    {
-        "rank": "45",
-        "name": "Christopher Nkunku",
-        "position": "CF",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/232411.png"
-    },
-    {
-        "rank": "46",
-        "name": "Lautaro Martinez",
-        "position": "ST",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/231478.png"
-    },
-    {
-        "rank": "48",
-        "name": "Paulo Dybala",
-        "position": "CF",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/211110.png"
-    },
-    {
-        "rank": "49",
-        "name": "Aymeric Laporte",
-        "position": "CB",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212218.png"
-    },
-    {
-        "rank": "50",
-        "name": "Raheem Sterling",
-        "position": "LW",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/202652.png"
-    },
-    {
-        "rank": "52",
-        "name": "Riyad Mahrez",
-        "position": "RW",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/204485.png"
-    },
-    {
-        "rank": "53",
-        "name": "Ciro Immobile",
-        "position": "ST",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192387.png"
-    },
-    {
-        "rank": "54",
-        "name": "Thiago",
-        "position": "CM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/189509.png"
-    },
-    {
-        "rank": "55",
-        "name": "Kingsley Coman",
-        "position": "LM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/213345.png"
-    },
-    {
-        "rank": "56",
-        "name": "Romelu Lukaku",
-        "position": "ST",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192505.png"
-    },
-    {
-        "rank": "57",
-        "name": "Sergej Milinkovic-Savic",
-        "position": "CM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/223848.png"
-    },
-    {
-        "rank": "58",
-        "name": "Thiago Silva",
-        "position": "CB",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/164240.png"
-    },
-    {
-        "rank": "59",
-        "name": "Nicolo Barella",
-        "position": "CM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/224232.png"
-    },
-    {
-        "rank": "60",
-        "name": "Bruno Fernandes",
-        "position": "CAM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212198.png"
-    },
-    {
-        "rank": "61",
-        "name": "Marcelo Brozovic",
-        "position": "CDM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/216352.png"
-    },
-    {
-        "rank": "62",
-        "name": "Parejo",
-        "position": "CM",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/189513.png"
-    },
-    {
-        "rank": "63",
-        "name": "David Alaba",
-        "position": "CB",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/197445.png"
-    },
-    {
-        "rank": "64",
-        "name": "Milan Skriniar",
-        "position": "CB",
-        "basePrice": "30",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/232363.png"
-    },
-    {
-        "rank": "66",
-        "name": "Ilkay Gundogan",
-        "position": "CM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/186942.png"
-    },
-    {
-        "rank": "67",
-        "name": "Theo Hernandez",
-        "position": "LB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/232656.png"
-    },
-    {
-        "rank": "69",
-        "name": "Phil Foden",
-        "position": "LW",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/237692.png"
-    },
-    {
-        "rank": "70",
-        "name": "Diogo Jota",
-        "position": "CF",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/224458.png"
-    },
-    {
-        "rank": "71",
-        "name": "Patrik Schick",
-        "position": "ST",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/234236.png"
-    },
-    {
-        "rank": "72",
-        "name": "Paul Pogba",
-        "position": "CM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/195864.png"
-    },
-    {
-        "rank": "73",
-        "name": "Gerard Moreno",
-        "position": "ST",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/208093.png"
-    },
-    {
-        "rank": "74",
-        "name": "Jorginho",
-        "position": "CM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/205498.png"
-    },
-    {
-        "rank": "75",
-        "name": "Marco Reus",
-        "position": "CAM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/188350.png"
-    },
-    {
-        "rank": "76",
-        "name": "Iago Aspas",
-        "position": "ST",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/192629.png"
-    },
-    {
-        "rank": "77",
-        "name": "Kyle Walker",
-        "position": "RB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/188377.png"
-    },
-    {
-        "rank": "78",
-        "name": "Niklas Sule",
-        "position": "CB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212190.png"
-    },
-    {
-        "rank": "79",
-        "name": "Filip Kostic",
-        "position": "LM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/208574.png"
-    },
-    {
-        "rank": "80",
-        "name": "Pedri",
-        "position": "CM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/251854.png"
-    },
-    {
-        "rank": "81",
-        "name": "Jamie Vardy",
-        "position": "ST",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/208830.png"
-    },
-    {
-        "rank": "82",
-        "name": "Serge Gnabry",
-        "position": "RM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/206113.png"
-    },
-    {
-        "rank": "83",
-        "name": "Matthijs de Ligt",
-        "position": "CB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/235243.png"
-    },
-    {
-        "rank": "84",
-        "name": "Jordi Alba",
-        "position": "LB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/189332.png"
-    },
-    {
-        "rank": "85",
-        "name": "Memphis Depay",
-        "position": "CF",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/202556.png"
-    },
-    {
-        "rank": "86",
-        "name": "Nabil Fekir",
-        "position": "CAM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/216594.png"
-    },
-    {
-        "rank": "87",
-        "name": "Sergio Busquets",
-        "position": "CDM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/189511.png"
-    },
-    {
-        "rank": "89",
-        "name": "Pierre-Emerick Aubameyang",
-        "position": "ST",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/188567.png"
-    },
-    {
-        "rank": "90",
-        "name": "Yannick Carrasco",
-        "position": "LM",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/208418.png"
-    },
-    {
-        "rank": "91",
-        "name": "Marcos Acuna",
-        "position": "LB",
-        "basePrice": "25",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/224334.png"
-    },
-    {
-        "rank": "92",
-        "name": "Joao Felix",
-        "position": "CF",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/242444.png"
-    },
-    {
-        "rank": "93",
-        "name": "Jude Bellingham",
-        "position": "CM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/252371.png"
-    },
-    {
-        "rank": "94",
-        "name": "Martin Odegaard",
-        "position": "CAM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/222665.png"
-    },
-    {
-        "rank": "95",
-        "name": "Dusan Vlahovic",
-        "position": "ST",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/246430.png"
-    },
-    {
-        "rank": "96",
-        "name": "Wissam Ben Yedder",
-        "position": "ST",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/199451.png"
-    },
-    {
-        "rank": "97",
-        "name": "Mason Mount",
-        "position": "CAM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/233064.png"
-    },
-    {
-        "rank": "98",
-        "name": "Achraf Hakimi",
-        "position": "RB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/235212.png"
-    },
-    {
-        "rank": "99",
-        "name": "Declan Rice",
-        "position": "CDM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/234378.png"
-    },
-    {
-        "rank": "100",
-        "name": "Jack Grealish",
-        "position": "LW",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/206517.png"
-    },
-    {
-        "rank": "101",
-        "name": "Jules Kounde",
-        "position": "CB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/241486.png"
-    },
-    {
-        "rank": "102",
-        "name": "Oyarzabal",
-        "position": "LW",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/230142.png"
-    },
-    {
-        "rank": "103",
-        "name": "Federico Valverde",
-        "position": "CM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/239053.png"
-    },
-    {
-        "rank": "104",
-        "name": "Marcos Llorente",
-        "position": "CM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/226161.png"
-    },
-    {
-        "rank": "105",
-        "name": "Franck Yannick Kessie",
-        "position": "CDM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/230938.png"
-    },
-    {
-        "rank": "106",
-        "name": "Rodrigo Javier De Paul",
-        "position": "CM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/212616.png"
-    },
-    {
-        "rank": "107",
-        "name": "Sandro Tonali",
-        "position": "CDM",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/241096.png"
-    },
-    {
-        "rank": "110",
-        "name": "Eder Militao",
-        "position": "CB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/240130.png"
-    },
-    {
-        "rank": "112",
-        "name": "Federico Chiesa",
-        "position": "LW",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/235805.png"
-    },
-    {
-        "rank": "113",
-        "name": "Lucas Hernandez",
-        "position": "CB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/220814.png"
-    },
-    {
-        "rank": "115",
-        "name": "Reece James",
-        "position": "RWB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/238074.png"
-    },
-    {
-        "rank": "117",
-        "name": "Sergio Ramos",
-        "position": "CB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/155862.png"
-    },
-    {
-        "rank": "118",
-        "name": "Alphonso Davies",
-        "position": "LB",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/e/fifa/fifa-23/ratings/common/player-small-portraits/234396.png"
-    },
-    {
-        "rank": "119",
-        "name": "Angel Di Maria",
-        "position": "RW",
-        "basePrice": "20",
-        "pic": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/ratings/common/player-small-portraits/183898.png"
-    }
-]
+     {
+      "Number": 1,
+      "Player Name": "Karim Benzema",
+      "Position": "CF",
+      "Attribute": 55,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p165153.png?padding=0.7"
+     },
+     {
+      "Number": 2,
+      "Player Name": "Robert Lewandowski",
+      "Position": "ST",
+      "Attribute": 55,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188545.png?padding=0.7"
+     },
+     {
+      "Number": 3,
+      "Player Name": "Kylian Mbappe",
+      "Position": "ST",
+      "Attribute": 55,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231747.png?padding=0.7"
+     },
+     {
+      "Number": 4,
+      "Player Name": "Kevin De Bruyne",
+      "Position": "CM",
+      "Attribute": 55,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192985.png?padding=0.7"
+     },
+     {
+      "Number": 5,
+      "Player Name": "Lionel Messi",
+      "Position": "RW",
+      "Attribute": 55,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p158023.png?padding=0.7"
+     },
+     {
+      "Number": 6,
+      "Player Name": "Mohamed Salah",
+      "Position": "RW",
+      "Attribute": 50,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209331.png?padding=0.7"
+     },
+     {
+      "Number": 7,
+      "Player Name": "Virgil van Dijk",
+      "Position": "CB",
+      "Attribute": 50,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p203376.png?padding=0.7"
+     },
+     {
+      "Number": 8,
+      "Player Name": "Cristiano Ronaldo",
+      "Position": "ST",
+      "Attribute": 50,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p20801.png?padding=0.7"
+     },
+     {
+      "Number": 9,
+      "Player Name": "Thibaut Courtois",
+      "Position": "GK",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192119.png?padding=0.7"
+     },
+     {
+      "Number": 10,
+      "Player Name": "Manuel Neuer",
+      "Position": "GK",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167495.png?padding=0.7"
+     },
+     {
+      "Number": 11,
+      "Player Name": "Neymar Jr",
+      "Position": "LW",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p190871.png?padding=0.7"
+     },
+     {
+      "Number": 12,
+      "Player Name": "Heung Min Son",
+      "Position": "LW",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200104.png?padding=0.7"
+     },
+     {
+      "Number": 13,
+      "Player Name": "Sadio Mane",
+      "Position": "LM",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208722.png?padding=0.7"
+     },
+     {
+      "Number": 14,
+      "Player Name": "Joshua Kimmich",
+      "Position": "CDM",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212622.png?padding=0.7"
+     },
+     {
+      "Number": 15,
+      "Player Name": "Casemiro",
+      "Position": "CDM",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200145.png?padding=0.7"
+     },
+     {
+      "Number": 16,
+      "Player Name": "Alisson",
+      "Position": "GK",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212831.png?padding=0.7"
+     },
+     {
+      "Number": 17,
+      "Player Name": "Harry Kane",
+      "Position": "ST",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202126.png?padding=0.7"
+     },
+     {
+      "Number": 18,
+      "Player Name": "Ederson",
+      "Position": "GK",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210257.png?padding=0.7"
+     },
+     {
+      "Number": 19,
+      "Player Name": "N'Golo Kante",
+      "Position": "CDM",
+      "Attribute": 45,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215914.png?padding=0.7"
+     },
+     {
+      "Number": 20,
+      "Player Name": "Jan Oblak",
+      "Position": "GK",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200389.png?padding=0.7"
+     },
+     {
+      "Number": 21,
+      "Player Name": "Erling Haaland",
+      "Position": "ST",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239085.png?padding=0.7"
+     },
+     {
+      "Number": 22,
+      "Player Name": "Florian Wirtz",
+      "Position": "CM",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p256630.png?padding=0.7"
+     },
+     {
+      "Number": 23,
+      "Player Name": "Marquinhos",
+      "Position": "CB",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p207865.png?padding=0.7"
+     },
+     {
+      "Number": 24,
+      "Player Name": "Luka Modric",
+      "Position": "CM",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p177003.png?padding=0.7"
+     },
+     {
+      "Number": 25,
+      "Player Name": "Joao Cancelo",
+      "Position": "LB",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210514.png?padding=0.7"
+     },
+     {
+      "Number": 26,
+      "Player Name": "Ruben Dias",
+      "Position": "CB",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239818.png?padding=0.7"
+     },
+     {
+      "Number": 27,
+      "Player Name": "Gianluigi Donnarumma",
+      "Position": "GK",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230621.png?padding=0.7"
+     },
+     {
+      "Number": 28,
+      "Player Name": "Bernardo Silva",
+      "Position": "CAM",
+      "Attribute": 40,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p218667.png?padding=0.7"
+     },
+     {
+      "Number": 29,
+      "Player Name": "Marc-Andre ter Stegen",
+      "Position": "GK",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192448.png?padding=0.7"
+     },
+     {
+      "Number": 30,
+      "Player Name": "Fabinho",
+      "Position": "CDM",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209499.png?padding=0.7"
+     },
+     {
+      "Number": 31,
+      "Player Name": "Rodri",
+      "Position": "CDM",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231866.png?padding=0.7"
+     },
+     {
+      "Number": 32,
+      "Player Name": "Mike Maignan",
+      "Position": "GK",
+      "Attribute": 15,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215698.png?padding=0.7"
+     },
+     {
+      "Number": 33,
+      "Player Name": "Antonio Rudiger",
+      "Position": "CB",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205452.png?padding=0.7"
+     },
+     {
+      "Number": 34,
+      "Player Name": "Andrew Robertson",
+      "Position": "LB",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216267.png?padding=0.7"
+     },
+     {
+      "Number": 35,
+      "Player Name": "Kalidou Koulibaly",
+      "Position": "CB",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p201024.png?padding=0.7"
+     },
+     {
+      "Number": 36,
+      "Player Name": "Frenkie de Jong",
+      "Position": "CM",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p228702.png?padding=0.7"
+     },
+     {
+      "Number": 37,
+      "Player Name": "Leon Goretzka",
+      "Position": "CM",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209658.png?padding=0.7"
+     },
+     {
+      "Number": 38,
+      "Player Name": "Trent Alexander-Arnold",
+      "Position": "RB",
+      "Attribute": 35,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231281.png?padding=0.7"
+     },
+     {
+      "Number": 39,
+      "Player Name": "Hugo Lloris",
+      "Position": "GK",
+      "Attribute": 15,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167948.png?padding=0.7"
+     },
+     {
+      "Number": 40,
+      "Player Name": "Vinicius Jr.",
+      "Position": "LW",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238794.png?padding=0.7"
+     },
+     {
+      "Number": 41,
+      "Player Name": "Christopher Nkunku",
+      "Position": "CF",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232411.png?padding=0.7"
+     },
+     {
+      "Number": 42,
+      "Player Name": "Lautaro Martinez",
+      "Position": "ST",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231478.png?padding=0.7"
+     },
+     {
+      "Number": 43,
+      "Player Name": "Paulo Dybala",
+      "Position": "CF",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p211110.png?padding=0.7"
+     },
+     {
+      "Number": 44,
+      "Player Name": "Aymeric Laporte",
+      "Position": "CB",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212218.png?padding=0.7"
+     },
+     {
+      "Number": 45,
+      "Player Name": "Raheem Sterling",
+      "Position": "LW",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202652.png?padding=0.7"
+     },
+     {
+      "Number": 46,
+      "Player Name": "Riyad Mahrez",
+      "Position": "RW",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204485.png?padding=0.7"
+     },
+     {
+      "Number": 47,
+      "Player Name": "Ciro Immobile",
+      "Position": "ST",
+      "Attribute": 30,
+      "Image URL": "https:\/\/media.contentapi.ea.com\/content\/dam\/ea\/fifa\/fifa-23\/rahttps:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192387.png?padding=0.7tings\/common\/player-small-portraits\/192387.png"
+     },
+     {
+      "Number": 48,
+      "Player Name": "Kingsley Coman",
+      "Position": "LM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p213345.png?padding=0.7"
+     },
+     {
+      "Number": 49,
+      "Player Name": "Romelu Lukaku",
+      "Position": "ST",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192505.png?padding=0.7"
+     },
+     {
+      "Number": 50,
+      "Player Name": "Sergej Milinkovic-Savic",
+      "Position": "CM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p223848.png?padding=0.7"
+     },
+     {
+      "Number": 51,
+      "Player Name": "Nicolo Barella",
+      "Position": "CM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224232.png?padding=0.7"
+     },
+     {
+      "Number": 52,
+      "Player Name": "Bruno Fernandes",
+      "Position": "CAM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212198.png?padding=0.7"
+     },
+     {
+      "Number": 53,
+      "Player Name": "Marcelo Brozovic",
+      "Position": "CDM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216352.png?padding=0.7"
+     },
+     {
+      "Number": 54,
+      "Player Name": "Parejo",
+      "Position": "CM",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189513.png?padding=0.7"
+     },
+     {
+      "Number": 55,
+      "Player Name": "David Alaba",
+      "Position": "CB",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p197445.png?padding=0.7"
+     },
+     {
+      "Number": 56,
+      "Player Name": "Milan Skriniar",
+      "Position": "CB",
+      "Attribute": 30,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232363.png?padding=0.7"
+     },
+     {
+      "Number": 57,
+      "Player Name": "Ilkay Gundogan",
+      "Position": "CM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186942.png?padding=0.7"
+     },
+     {
+      "Number": 58,
+      "Player Name": "Theo Hernandez",
+      "Position": "LB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232656.png?padding=0.7"
+     },
+     {
+      "Number": 59,
+      "Player Name": "Phil Foden",
+      "Position": "LW",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p237692.png?padding=0.7"
+     },
+     {
+      "Number": 60,
+      "Player Name": "Diogo Jota",
+      "Position": "CF",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224458.png?padding=0.7"
+     },
+     {
+      "Number": 61,
+      "Player Name": "Patrik Schick",
+      "Position": "ST",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234236.png?padding=0.7"
+     },
+     {
+      "Number": 62,
+      "Player Name": "Gerard Moreno",
+      "Position": "ST",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208093.png?padding=0.7"
+     },
+     {
+      "Number": 63,
+      "Player Name": "Jorginho",
+      "Position": "CM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205498.png?padding=0.7"
+     },
+     {
+      "Number": 64,
+      "Player Name": "Iago Aspas",
+      "Position": "ST",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192629.png?padding=0.7"
+     },
+     {
+      "Number": 65,
+      "Player Name": "Kyle Walker",
+      "Position": "RB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188377.png?padding=0.7"
+     },
+     {
+      "Number": 66,
+      "Player Name": "Niklas Sule",
+      "Position": "CB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212190.png?padding=0.7"
+     },
+     {
+      "Number": 67,
+      "Player Name": "Filip Kostic",
+      "Position": "LM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208574.png?padding=0.7"
+     },
+     {
+      "Number": 68,
+      "Player Name": "Pedri",
+      "Position": "CM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p251854.png?padding=0.7"
+     },
+     {
+      "Number": 69,
+      "Player Name": "Jamie Vardy",
+      "Position": "ST",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208830.png?padding=0.7"
+     },
+     {
+      "Number": 70,
+      "Player Name": "Serge Gnabry",
+      "Position": "RM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206113.png?padding=0.7"
+     },
+     {
+      "Number": 71,
+      "Player Name": "Matthijs de Ligt",
+      "Position": "CB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/www.ea.com\/_next\/static\/media\/commonGoldShield.109035f4.png"
+     },
+     {
+      "Number": 72,
+      "Player Name": "Jordi Alba",
+      "Position": "LB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189332.png?padding=0.7"
+     },
+     {
+      "Number": 73,
+      "Player Name": "Sergio Busquets",
+      "Position": "CDM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189511.png?padding=0.7"
+     },
+     {
+      "Number": 74,
+      "Player Name": "Pierre-Emerick Aubameyang",
+      "Position": "ST",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188567.png?padding=0.7"
+     },
+     {
+      "Number": 75,
+      "Player Name": "Yannick Carrasco",
+      "Position": "LM",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208418.png?padding=0.7"
+     },
+     {
+      "Number": 76,
+      "Player Name": "Marcos Acuna",
+      "Position": "LB",
+      "Attribute": 25,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224334.png?padding=0.7"
+     },
+     {
+      "Number": 77,
+      "Player Name": "Joao Felix",
+      "Position": "CF",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p242444.png?padding=0.7"
+     },
+     {
+      "Number": 78,
+      "Player Name": "Jude Bellingham",
+      "Position": "CM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p252371.png?padding=0.7"
+     },
+     {
+      "Number": 79,
+      "Player Name": "Martin Odegaard",
+      "Position": "CAM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p222665.png?padding=0.7"
+     },
+     {
+      "Number": 80,
+      "Player Name": "Dusan Vlahovic",
+      "Position": "ST",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p246430.png?padding=0.7"
+     },
+     {
+      "Number": 81,
+      "Player Name": "Omar Marmoush",
+      "Position": "ST",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p256675.png?padding=0.7"
+     },
+     {
+      "Number": 82,
+      "Player Name": "Mason Mount",
+      "Position": "CAM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p233064.png?padding=0.7"
+     },
+     {
+      "Number": 83,
+      "Player Name": "Achraf Hakimi",
+      "Position": "RB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235212.png?padding=0.7"
+     },
+     {
+      "Number": 84,
+      "Player Name": "Declan Rice",
+      "Position": "CDM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234378.png?padding=0.7"
+     },
+     {
+      "Number": 85,
+      "Player Name": "Jack Grealish",
+      "Position": "LW",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206517.png?padding=0.7"
+     },
+     {
+      "Number": 86,
+      "Player Name": "Jules Kounde",
+      "Position": "CB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241486.png?padding=0.7"
+     },
+     {
+      "Number": 87,
+      "Player Name": "Oyarzabal",
+      "Position": "LW",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230142.png?padding=0.7"
+     },
+     {
+      "Number": 88,
+      "Player Name": "Federico Valverde",
+      "Position": "CM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239053.png?padding=0.7"
+     },
+     {
+      "Number": 89,
+      "Player Name": "Marcos Llorente",
+      "Position": "CM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p226161.png?padding=0.7"
+     },
+     {
+      "Number": 90,
+      "Player Name": "Franck Yannick Kessie",
+      "Position": "CDM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230938.png?padding=0.7"
+     },
+     {
+      "Number": 91,
+      "Player Name": "Rodrigo Javier De Paul",
+      "Position": "CM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212616.png?padding=0.7"
+     },
+     {
+      "Number": 92,
+      "Player Name": "Sandro Tonali",
+      "Position": "CDM",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241096.png?padding=0.7"
+     },
+     {
+      "Number": 93,
+      "Player Name": "Eder Militao",
+      "Position": "CB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p240130.png?padding=0.7"
+     },
+     {
+      "Number": 94,
+      "Player Name": "Federico Chiesa",
+      "Position": "LW",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235805.png?padding=0.7"
+     },
+     {
+      "Number": 95,
+      "Player Name": "Lucas Hernandez",
+      "Position": "CB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p220814.png?padding=0.7"
+     },
+     {
+      "Number": 96,
+      "Player Name": "Reece James",
+      "Position": "RWB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238074.png?padding=0.7"
+     },
+     {
+      "Number": 97,
+      "Player Name": "Alphonso Davies",
+      "Position": "LB",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234396.png?padding=0.7"
+     },
+     {
+      "Number": 98,
+      "Player Name": "Angel Di Maria",
+      "Position": "RW",
+      "Attribute": 20,
+      "Image URL": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p183898.png?padding=0.7"
+     }
+    ]
+    

@@ -1,26 +1,87 @@
-.enter-button{
-    display: inline-block;
-    width: 200px;
-    color: #ffffff;
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 34px;
-    border-color: #ffffff;
-    padding: 17px;
-    text-align: center;
-    margin: auto;
-    margin-top: 20px;
-    font-weight: 900;
-    letter-spacing: 1.3px;
-    font-size: 20px;
-    text-transform: uppercase;
-    font-family: Raleway;
-    cursor: pointer;
-    transition-duration: 1s;
-    transition-timing-function: ease-in-out;
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap");
+
+.about-container {
+  background: linear-gradient(135deg, #292929, #1a1a1a);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 
-.enter-button:hover{
-    background: #ffffff;
-    color: #000000;
+.logo {
+  max-width: 300px;
+  animation: float 3s ease-in-out infinite;
 }
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.enter-button {
+  display: inline-block;
+  width: 220px;
+  color: #ffffff;
+  border: 3px solid #ffffff;
+  border-radius: 34px;
+  padding: 17px;
+  text-align: center;
+  margin-top: 40px;
+  font-weight: 900;
+  letter-spacing: 1.3px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.enter-button:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #ffffff;
+  transition: all 0.3s ease;
+  z-index: -1;
+}
+
+.enter-button:hover {
+  color: #292929;
+}
+
+.enter-button:hover:before {
+  width: 100%;
+}
+
+.tagline {
+  font-family: "Raleway", sans-serif;
+  color: #ffffff;
+  font-size: 24px;
+  margin-top: 20px;
+  opacity: 0;
+  animation: fadeIn 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
