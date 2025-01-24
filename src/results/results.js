@@ -3,7 +3,7 @@ import React, { Component } from "react";
 const styles = {
   container: {
     fontFamily: "'Roboto', sans-serif",
-    maxWidth: "900px",
+    width: "100%",
     margin: "20px auto",
     padding: "20px",
     backgroundColor: "#ffffff",
@@ -17,9 +17,14 @@ const styles = {
     marginBottom: "20px",
     color: "#333",
   },
+  gridContainer: {
+    display: "grid",
+    gridTemplateColumns: "repeat(4, 1fr)",
+    gap: "20px",
+    width: "100%",
+  },
   teamSection: {
     borderRadius: "10px",
-    marginBottom: "30px",
     overflow: "hidden",
     backgroundColor: "#f9f9f9",
     boxShadow: "0 2px 6px rgba(0, 0, 0, 0.1)",
@@ -64,36 +69,6 @@ const styles = {
     color: "#444",
     borderBottom: "1px solid #eee",
   },
-  totalRow: {
-    fontWeight: "bold",
-    backgroundColor: "#f7f7f7",
-    color: "#222",
-  },
-  tooltip: {
-    position: "relative",
-    display: "inline-block",
-    cursor: "pointer",
-  },
-  tooltipText: {
-    visibility: "hidden",
-    width: "120px",
-    backgroundColor: "#555",
-    color: "#fff",
-    textAlign: "center",
-    borderRadius: "5px",
-    padding: "5px 0",
-    position: "absolute",
-    zIndex: "1",
-    bottom: "125%",
-    left: "50%",
-    marginLeft: "-60px",
-    opacity: 0,
-    transition: "opacity 0.3s",
-  },
-  tooltipTextVisible: {
-    visibility: "visible",
-    opacity: 1,
-  },
 };
 
 export default class Results extends Component {
@@ -104,19 +79,11 @@ export default class Results extends Component {
   render() {
     const teams = JSON.parse(localStorage.getItem("teams") || "[]");
     const table = teams.map((team, teamIndex) => {
-      let total = 0;
-      const players = team.players.map((player, playerIndex) => {
-        total += player.sellingPrice * player.rank;
-        return (
-          <tr key={playerIndex}>
-            <td style={styles.td}>{player.name}</td>
-            <td style={styles.td}>
-              {player.rank} * {player.sellingPrice}
-            </td>
-            <td style={styles.td}>{player.rank * player.sellingPrice}</td>
-          </tr>
-        );
-      });
+      const players = team.players.map((player, playerIndex) => (
+        <tr key={playerIndex}>
+          <td style={styles.td}>{player.name}</td>
+        </tr>
+      ));
 
       const imageUrl = `/images/team-img/${team.name.replace(/\s+/g, "")}.png`;
 
@@ -141,19 +108,9 @@ export default class Results extends Component {
             <thead>
               <tr>
                 <th style={styles.th}>Player</th>
-                <th style={styles.th}>Calculation</th>
-                <th style={styles.th}>Score</th>
               </tr>
             </thead>
-            <tbody>
-              {players}
-              <tr style={styles.totalRow}>
-                <td style={styles.td} colSpan={2}>
-                  Total:
-                </td>
-                <td style={styles.td}>{total}</td>
-              </tr>
-            </tbody>
+            <tbody>{players}</tbody>
           </table>
         </div>
       );
@@ -163,7 +120,7 @@ export default class Results extends Component {
       <div style={styles.container}>
         <h1 style={styles.header}>Team Results</h1>
         {table.length > 0 ? (
-          table
+          <div style={styles.gridContainer}>{table}</div>
         ) : (
           <p style={{ textAlign: "center", color: "#888", fontSize: "18px" }}>
             No teams found. Please add teams to view results.

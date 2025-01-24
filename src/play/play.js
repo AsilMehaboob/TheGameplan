@@ -174,8 +174,9 @@ export default class Play extends Component {
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==1?"active":"inactive"} team={this.state.teams[1]} click="1" func={this.changeTeam.bind(this)}/>
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==2?"active":"inactive"} team={this.state.teams[2]} click="2" func={this.changeTeam.bind(this)}/>
 							<TeamButton bid={this.state.currentBid} state={this.state.biddingTeam==3?"active":"inactive"} team={this.state.teams[3]} click="3" func={this.changeTeam.bind(this)}/>
-
-							<input id="price-tag" value={this.state.currentBid} onChange={this.changeBid.bind(this)}></input>
+							<div>
+								<input id="price-tag" value={this.state.currentBid} onChange={this.changeBid.bind(this)}></input>
+							</div>
 							<span className="button" onClick={this.prevPlayer.bind(this)}>
 								<span className="symbol"><FaArrowLeft /></span>
 								<span className="text">PREV</span>
