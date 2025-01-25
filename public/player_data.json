@@ -1,703 +1,696 @@
 [
-     {
-      "rank": 1,
-      "name": "Karim Benzema",
-      "position": "CF",
-      "basePrice": 55,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p165153.png?padding=0.7"
-     },
-     {
-      "rank": 2,
-      "name": "Robert Lewandowski",
-      "position": "ST",
-      "basePrice": 55,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188545.png?padding=0.7"
-     },
-     {
-      "rank": 3,
-      "name": "Kylian Mbappe",
-      "position": "ST",
-      "basePrice": 55,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231747.png?padding=0.7"
-     },
-     {
-      "rank": 4,
-      "name": "Kevin De Bruyne",
-      "position": "CM",
-      "basePrice": 55,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192985.png?padding=0.7"
-     },
-     {
-      "rank": 5,
-      "name": "Lionel Messi",
-      "position": "RW",
-      "basePrice": 55,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p158023.png?padding=0.7"
-     },
-     {
-      "rank": 6,
-      "name": "Mohamed Salah",
-      "position": "RW",
-      "basePrice": 50,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209331.png?padding=0.7"
-     },
-     {
-      "rank": 7,
-      "name": "Virgil van Dijk",
-      "position": "CB",
-      "basePrice": 50,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p203376.png?padding=0.7"
-     },
-     {
-      "rank": 8,
-      "name": "Cristiano Ronaldo",
-      "position": "ST",
-      "basePrice": 50,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p20801.png?padding=0.7"
-     },
-     {
-      "rank": 9,
-      "name": "Thibaut Courtois",
-      "position": "GK",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192119.png?padding=0.7"
-     },
-     {
-      "rank": 10,
-      "name": "Manuel Neuer",
-      "position": "GK",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167495.png?padding=0.7"
-     },
-     {
-      "rank": 11,
-      "name": "Neymar Jr",
-      "position": "LW",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p190871.png?padding=0.7"
-     },
-     {
-      "rank": 12,
-      "name": "Heung Min Son",
-      "position": "LW",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200104.png?padding=0.7"
-     },
-     {
-      "rank": 13,
-      "name": "Sadio Mane",
-      "position": "LM",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208722.png?padding=0.7"
-     },
-     {
-      "rank": 14,
-      "name": "Joshua Kimmich",
-      "position": "RB",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212622.png?padding=0.7"
-     },
-     {
-      "rank": 15,
-      "name": "Casemiro",
-      "position": "CDM",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200145.png?padding=0.7"
-     },
-     {
-      "rank": 16,
-      "name": "Alisson",
-      "position": "GK",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212831.png?padding=0.7"
-     },
-     {
-      "rank": 17,
-      "name": "Harry Kane",
-      "position": "ST",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202126.png?padding=0.7"
-     },
-     {
-      "rank": 18,
-      "name": "Ederson",
-      "position": "GK",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210257.png?padding=0.7"
-     },
-     {
-      "rank": 19,
-      "name": "N'Golo Kante",
-      "position": "CDM",
-      "basePrice": 45,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215914.png?padding=0.7"
-     },
-     {
-      "rank": 20,
-      "name": "Jan Oblak",
-      "position": "GK",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200389.png?padding=0.7"
-     },
-     {
-      "rank": 21,
-      "name": "Erling Haaland",
-      "position": "ST",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239085.png?padding=0.7"
-     },
-     {
-      "rank": 22,
-      "name": "Florian Wirtz",
-      "position": "CM",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p256630.png?padding=0.7"
-     },
-     {
-      "rank": 23,
-      "name": "Marquinhos",
-      "position": "CB",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p207865.png?padding=0.7"
-     },
-     {
-      "rank": 24,
-      "name": "Luka Modric",
-      "position": "CM",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p177003.png?padding=0.7"
-     },
-     {
-      "rank": 25,
-      "name": "Joao Cancelo",
-      "position": "LB",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210514.png?padding=0.7"
-     },
-     {
-      "rank": 26,
-      "name": "Ruben Dias",
-      "position": "CB",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239818.png?padding=0.7"
-     },
-     {
-      "rank": 27,
-      "name": "Gianluigi Donnarumma",
-      "position": "GK",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230621.png?padding=0.7"
-     },
-     {
-      "rank": 28,
-      "name": "Bernardo Silva",
-      "position": "CAM",
-      "basePrice": 40,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p218667.png?padding=0.7"
-     },
-     {
-      "rank": 29,
-      "name": "Marc-Andre ter Stegen",
-      "position": "GK",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192448.png?padding=0.7"
-     },
-     {
-      "rank": 30,
-      "name": "Fabinho",
-      "position": "CDM",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209499.png?padding=0.7"
-     },
-     {
-      "rank": 31,
-      "name": "Rodri",
-      "position": "CDM",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231866.png?padding=0.7"
-     },
-     {
-      "rank": 32,
-      "name": "Mike Maignan",
-      "position": "GK",
-      "basePrice": 15,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215698.png?padding=0.7"
-     },
-     {
-      "rank": 33,
-      "name": "Antonio Rudiger",
-      "position": "CB",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205452.png?padding=0.7"
-     },
-     {
-      "rank": 34,
-      "name": "Andrew Robertson",
-      "position": "LB",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216267.png?padding=0.7"
-     },
-     {
-      "rank": 35,
-      "name": "Kalidou Koulibaly",
-      "position": "CB",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p201024.png?padding=0.7"
-     },
-     {
-      "rank": 36,
-      "name": "Frenkie de Jong",
-      "position": "CM",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p228702.png?padding=0.7"
-     },
-     {
-      "rank": 37,
-      "name": "Leon Goretzka",
-      "position": "CM",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209658.png?padding=0.7"
-     },
-     {
-      "rank": 38,
-      "name": "Trent Alexander-Arnold",
-      "position": "RB",
-      "basePrice": 35,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231281.png?padding=0.7"
-     },
-     {
-      "rank": 39,
-      "name": "Hugo Lloris",
-      "position": "GK",
-      "basePrice": 15,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167948.png?padding=0.7"
-     },
-     {
-      "rank": 40,
-      "name": "Vinicius Jr.",
-      "position": "LW",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238794.png?padding=0.7"
-     },
-     {
-      "rank": 41,
-      "name": "Christopher Nkunku",
-      "position": "CF",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232411.png?padding=0.7"
-     },
-     {
-      "rank": 42,
-      "name": "Lautaro Martinez",
-      "position": "ST",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231478.png?padding=0.7"
-     },
-     {
-      "rank": 43,
-      "name": "Paulo Dybala",
-      "position": "CF",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p211110.png?padding=0.7"
-     },
-     {
-      "rank": 44,
-      "name": "Aymeric Laporte",
-      "position": "CB",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212218.png?padding=0.7"
-     },
-     {
-      "rank": 45,
-      "name": "Raheem Sterling",
-      "position": "LW",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202652.png?padding=0.7"
-     },
-     {
-      "rank": 46,
-      "name": "Riyad Mahrez",
-      "position": "RW",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204485.png?padding=0.7"
-     },
-     {
-      "rank": 47,
-      "name": "Antoine Griezmann",
-      "position": "ST",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p194765.png?padding=0.7"
-     },
-     {
-      "rank": 48,
-      "name": "Kingsley Coman",
-      "position": "LM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p213345.png?padding=0.7"
-     },
-     {
-      "rank": 49,
-      "name": "Romelu Lukaku",
-      "position": "ST",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192505.png?padding=0.7"
-     },
-     {
-      "rank": 50,
-      "name": "Sergej Milinkovic-Savic",
-      "position": "CM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p223848.png?padding=0.7"
-     },
-     {
-      "rank": 51,
-      "name": "Nicolo Barella",
-      "position": "CM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224232.png?padding=0.7"
-     },
-     {
-      "rank": 52,
-      "name": "Bruno Fernandes",
-      "position": "CAM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212198.png?padding=0.7"
-     },
-     {
-      "rank": 53,
-      "name": "Marcelo Brozovic",
-      "position": "CDM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216352.png?padding=0.7"
-     },
-     {
-      "rank": 54,
-      "name": "Parejo",
-      "position": "CM",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189513.png?padding=0.7"
-     },
-     {
-      "rank": 55,
-      "name": "David Alaba",
-      "position": "CB",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p197445.png?padding=0.7"
-     },
-     {
-      "rank": 56,
-      "name": "Milan Skriniar",
-      "position": "CB",
-      "basePrice": 30,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232363.png?padding=0.7"
-     },
-     {
-      "rank": 57,
-      "name": "Ilkay Gundogan",
-      "position": "CM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186942.png?padding=0.7"
-     },
-     {
-      "rank": 58,
-      "name": "Theo Hernandez",
-      "position": "LB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232656.png?padding=0.7"
-     },
-     {
-      "rank": 59,
-      "name": "Phil Foden",
-      "position": "LW",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p237692.png?padding=0.7"
-     },
-     {
-      "rank": 60,
-      "name": "Diogo Jota",
-      "position": "CF",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224458.png?padding=0.7"
-     },
-     {
-      "rank": 61,
-      "name": "Patrik Schick",
-      "position": "ST",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234236.png?padding=0.7"
-     },
-     {
-      "rank": 62,
-      "name": "Gerard Moreno",
-      "position": "ST",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208093.png?padding=0.7"
-     },
-     {
-      "rank": 63,
-      "name": "Jorginho",
-      "position": "CM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205498.png?padding=0.7"
-     },
-     {
-      "rank": 64,
-      "name": "Iago Aspas",
-      "position": "ST",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192629.png?padding=0.7"
-     },
-     {
-      "rank": 65,
-      "name": "Kyle Walker",
-      "position": "RB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188377.png?padding=0.7"
-     },
-     {
-      "rank": 66,
-      "name": "Niklas Sule",
-      "position": "CB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212190.png?padding=0.7"
-     },
-     {
-      "rank": 67,
-      "name": "Filip Kostic",
-      "position": "LM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208574.png?padding=0.7"
-     },
-     {
-      "rank": 68,
-      "name": "Pedri",
-      "position": "CM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p251854.png?padding=0.7"
-     },
-     {
-      "rank": 69,
-      "name": "Jamie Vardy",
-      "position": "ST",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208830.png?padding=0.7"
-     },
-     {
-      "rank": 70,
-      "name": "Serge Gnabry",
-      "position": "RM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206113.png?padding=0.7"
-     },
-     {
-      "rank": 71,
-      "name": "Matthijs de Ligt",
-      "position": "CB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235243.png?padding=0.7"
-     },
-     {
-      "rank": 72,
-      "name": "Jordi Alba",
-      "position": "LB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189332.png?padding=0.7"
-     },
-     {
-      "rank": 73,
-      "name": "Sergio Busquets",
-      "position": "CDM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189511.png?padding=0.7"
-     },
-     {
-      "rank": 74,
-      "name": "Pierre-Emerick Aubameyang",
-      "position": "ST",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188567.png?padding=0.7"
-     },
-     {
-      "rank": 75,
-      "name": "Yannick Carrasco",
-      "position": "LM",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208418.png?padding=0.7"
-     },
-     {
-      "rank": 76,
-      "name": "Marcos Acuna",
-      "position": "LB",
-      "basePrice": 25,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224334.png?padding=0.7"
-     },
-     {
-      "rank": 77,
-      "name": "Joao Felix",
-      "position": "CF",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p242444.png?padding=0.7"
-     },
-     {
-      "rank": 78,
-      "name": "Jude Bellingham",
-      "position": "CM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p252371.png?padding=0.7"
-     },
-     {
-      "rank": 79,
-      "name": "Martin Odegaard",
-      "position": "CAM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p222665.png?padding=0.7"
-     },
-     {
-      "rank": 80,
-      "name": "Dusan Vlahovic",
-      "position": "ST",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p246430.png?padding=0.7"
-     },
-     {
-      "rank": 81,
-      "name": "Omar Marmoush",
-      "position": "ST",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p256675.png?padding=0.7"
-     },
-     {
-      "rank": 82,
-      "name": "Mason Mount",
-      "position": "CAM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p233064.png?padding=0.7"
-     },
-     {
-      "rank": 83,
-      "name": "Achraf Hakimi",
-      "position": "RB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235212.png?padding=0.7"
-     },
-     {
-      "rank": 84,
-      "name": "Declan Rice",
-      "position": "CDM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234378.png?padding=0.7"
-     },
-     {
-      "rank": 85,
-      "name": "Jack Grealish",
-      "position": "LW",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206517.png?padding=0.7"
-     },
-     {
-      "rank": 86,
-      "name": "Jules Kounde",
-      "position": "CB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241486.png?padding=0.7"
-     },
-     {
-      "rank": 87,
-      "name": "Oyarzabal",
-      "position": "LW",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230142.png?padding=0.7"
-     },
-     {
-      "rank": 88,
-      "name": "Federico Valverde",
-      "position": "CM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239053.png?padding=0.7"
-     },
-     {
-      "rank": 89,
-      "name": "Marcos Llorente",
-      "position": "CM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p226161.png?padding=0.7"
-     },
-     {
-      "rank": 90,
-      "name": "Franck Yannick Kessie",
-      "position": "CDM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230938.png?padding=0.7"
-     },
-     {
-      "rank": 91,
-      "name": "Rodrigo Javier De Paul",
-      "position": "CM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212616.png?padding=0.7"
-     },
-     {
-      "rank": 92,
-      "name": "Sandro Tonali",
-      "position": "CDM",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241096.png?padding=0.7"
-     },
-     {
-      "rank": 93,
-      "name": "Eder Militao",
-      "position": "CB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p240130.png?padding=0.7"
-     },
-     {
-      "rank": 94,
-      "name": "Federico Chiesa",
-      "position": "LW",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235805.png?padding=0.7"
-     },
-     {
-      "rank": 95,
-      "name": "Lucas Hernandez",
-      "position": "CB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p220814.png?padding=0.7"
-     },
-     {
-      "rank": 96,
-      "name": "Reece James",
-      "position": "RWB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238074.png?padding=0.7"
-     },
-     {
-      "rank": 97,
-      "name": "Alphonso Davies",
-      "position": "LB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234396.png?padding=0.7"
-     },
-     {
-      "rank": 98,
-      "name": "Angel Di Maria",
-      "position": "RW",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p183898.png?padding=0.7"
-     },
-     {
-      "rank": 99,
-      "name": "Carvajal",
-      "position": "RB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204963.png?padding=0.7"
-     },
-     {
-      "rank": 100,
-      "name": "Kieran Trippier",
-      "position": "RB",
-      "basePrice": 20,
-      "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186345.png?padding=0.7"
-     }
-    ]
-    
+      {
+       "rank": 1,
+       "name": "Karim Benzema",
+       "position": "CF",
+       "basePrice": 50,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p165153.png?padding=0.7"
+      },
+      {
+       "rank": 2,
+       "name": "Robert Lewandowski",
+       "position": "ST",
+       "basePrice": 50,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188545.png?padding=0.7"
+      },
+      {
+       "rank": 3,
+       "name": "Kylian Mbappe",
+       "position": "ST",
+       "basePrice": 55,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231747.png?padding=0.7"
+      },
+      {
+       "rank": 4,
+       "name": "Kevin De Bruyne",
+       "position": "CM",
+       "basePrice": 45,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192985.png?padding=0.7"
+      },
+      {
+       "rank": 5,
+       "name": "Lionel Messi",
+       "position": "CF",
+       "basePrice": 40,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p158023.png?padding=0.7"
+      },
+      {
+       "rank": 6,
+       "name": "Mohamed Salah",
+       "position": "RW",
+       "basePrice": 45,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209331.png?padding=0.7"
+      },
+      {
+       "rank": 7,
+       "name": "Virgil van Dijk",
+       "position": "CB",
+       "basePrice": 40,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p203376.png?padding=0.7"
+      },
+      {
+       "rank": 8,
+       "name": "Cristiano Ronaldo",
+       "position": "ST",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p20801.png?padding=0.7"
+      },
+      {
+       "rank": 9,
+       "name": "Thibaut Courtois",
+       "position": "GK",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192119.png?padding=0.7"
+      },
+      {
+       "rank": 10,
+       "name": "Manuel Neuer",
+       "position": "GK",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167495.png?padding=0.7"
+      },
+      {
+       "rank": 11,
+       "name": "Neymar Jr",
+       "position": "LW",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p190871.png?padding=0.7"
+      },
+      {
+       "rank": 12,
+       "name": "Heung Min Son",
+       "position": "LW",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200104.png?padding=0.7"
+      },
+      {
+       "rank": 13,
+       "name": "Sadio Mane",
+       "position": "CF",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208722.png?padding=0.7"
+      },
+      {
+       "rank": 14,
+       "name": "Joshua Kimmich",
+       "position": "CDM",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212622.png?padding=0.7"
+      },
+      {
+       "rank": 15,
+       "name": "Casemiro",
+       "position": "CDM",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200145.png?padding=0.7"
+      },
+      {
+       "rank": 16,
+       "name": "Alisson",
+       "position": "GK",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212831.png?padding=0.7"
+      },
+      {
+       "rank": 17,
+       "name": "Harry Kane",
+       "position": "ST",
+       "basePrice": 50,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202126.png?padding=0.7"
+      },
+      {
+       "rank": 18,
+       "name": "Ederson",
+       "position": "GK",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210257.png?padding=0.7"
+      },
+      {
+       "rank": 19,
+       "name": "N'Golo Kante",
+       "position": "CDM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215914.png?padding=0.7"
+      },
+      {
+       "rank": 20,
+       "name": "Jan Oblak",
+       "position": "GK",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p200389.png?padding=0.7"
+      },
+      {
+       "rank": 21,
+       "name": "Erling Haaland",
+       "position": "ST",
+       "basePrice": 55,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239085.png?padding=0.7"
+      },
+      {
+       "rank": 22,
+       "name": "Florian Wirtz",
+       "position": "CAM",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p256630.png?padding=0.7"
+      },
+      {
+       "rank": 23,
+       "name": "Marquinhos",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p207865.png?padding=0.7"
+      },
+      {
+       "rank": 24,
+       "name": "Luka Modric",
+       "position": "CM",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p177003.png?padding=0.7"
+      },
+      {
+       "rank": 25,
+       "name": "Joao Cancelo",
+       "position": "LB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p210514.png?padding=0.7"
+      },
+      {
+       "rank": 26,
+       "name": "Ruben Dias",
+       "position": "CB",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239818.png?padding=0.7"
+      },
+      {
+       "rank": 27,
+       "name": "Gianluigi Donnarumma",
+       "position": "GK",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230621.png?padding=0.7"
+      },
+      {
+       "rank": 28,
+       "name": "Bernardo Silva",
+       "position": "CM",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p218667.png?padding=0.7"
+      },
+      {
+       "rank": 29,
+       "name": "Marc-Andre ter Stegen",
+       "position": "GK",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192448.png?padding=0.7"
+      },
+      {
+       "rank": 30,
+       "name": "Fabinho",
+       "position": "CDM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209499.png?padding=0.7"
+      },
+      {
+       "rank": 31,
+       "name": "Rodri",
+       "position": "CDM",
+       "basePrice": 45,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231866.png?padding=0.7"
+      },
+      {
+       "rank": 32,
+       "name": "Mike Maignan",
+       "position": "GK",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p215698.png?padding=0.7"
+      },
+      {
+       "rank": 33,
+       "name": "Antonio Rudiger",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205452.png?padding=0.7"
+      },
+      {
+       "rank": 34,
+       "name": "Andrew Robertson",
+       "position": "LB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216267.png?padding=0.7"
+      },
+      {
+       "rank": 35,
+       "name": "Kalidou Koulibaly",
+       "position": "CB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p201024.png?padding=0.7"
+      },
+      {
+       "rank": 36,
+       "name": "Frenkie de Jong",
+       "position": "CM",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p228702.png?padding=0.7"
+      },
+      {
+       "rank": 37,
+       "name": "Leon Goretzka",
+       "position": "CDM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p209658.png?padding=0.7"
+      },
+      {
+       "rank": 38,
+       "name": "Trent Alexander-Arnold",
+       "position": "RB",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231281.png?padding=0.7"
+      },
+      {
+       "rank": 39,
+       "name": "Hugo Lloris",
+       "position": "GK",
+       "basePrice": 15,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p167948.png?padding=0.7"
+      },
+      {
+       "rank": 40,
+       "name": "Vinicius Jr.",
+       "position": "LW",
+       "basePrice": 50,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238794.png?padding=0.7"
+      },
+      {
+       "rank": 41,
+       "name": "Christopher Nkunku",
+       "position": "CF",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232411.png?padding=0.7"
+      },
+      {
+       "rank": 42,
+       "name": "Lautaro Martinez",
+       "position": "ST",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p231478.png?padding=0.7"
+      },
+      {
+       "rank": 43,
+       "name": "Paulo Dybala",
+       "position": "CF",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p211110.png?padding=0.7"
+      },
+      {
+       "rank": 44,
+       "name": "Aymeric Laporte",
+       "position": "CB",
+       "basePrice": 15,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212218.png?padding=0.7"
+      },
+      {
+       "rank": 45,
+       "name": "Raheem Sterling",
+       "position": "LW",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p202652.png?padding=0.7"
+      },
+      {
+       "rank": 46,
+       "name": "Riyad Mahrez",
+       "position": "RM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204485.png?padding=0.7"
+      },
+      {
+       "rank": 47,
+       "name": "Antoine Griezmann",
+       "position": "ST",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p194765.png?padding=0.7"
+      },
+      {
+       "rank": 48,
+       "name": "Kingsley Coman",
+       "position": "LM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p213345.png?padding=0.7"
+      },
+      {
+       "rank": 49,
+       "name": "Romelu Lukaku",
+       "position": "ST",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192505.png?padding=0.7"
+      },
+      {
+       "rank": 50,
+       "name": "Sergej Milinkovic-Savic",
+       "position": "CM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p223848.png?padding=0.7"
+      },
+      {
+       "rank": 51,
+       "name": "Nicolo Barella",
+       "position": "CM",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224232.png?padding=0.7"
+      },
+      {
+       "rank": 52,
+       "name": "Bruno Fernandes",
+       "position": "CAM",
+       "basePrice": 40,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212198.png?padding=0.7"
+      },
+      {
+       "rank": 53,
+       "name": "Marcelo Brozovic",
+       "position": "CDM",
+       "basePrice": 15,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p216352.png?padding=0.7"
+      },
+      {
+       "rank": 54,
+       "name": "Parejo",
+       "position": "CM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189513.png?padding=0.7"
+      },
+      {
+       "rank": 55,
+       "name": "David Alaba",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p197445.png?padding=0.7"
+      },
+      {
+       "rank": 56,
+       "name": "Milan Skriniar",
+       "position": "CB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232363.png?padding=0.7"
+      },
+      {
+       "rank": 57,
+       "name": "Ilkay Gundogan",
+       "position": "CM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186942.png?padding=0.7"
+      },
+      {
+       "rank": 58,
+       "name": "Theo Hernandez",
+       "position": "LB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p232656.png?padding=0.7"
+      },
+      {
+       "rank": 59,
+       "name": "Phil Foden",
+       "position": "LW",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p237692.png?padding=0.7"
+      },
+      {
+       "rank": 60,
+       "name": "Diogo Jota",
+       "position": "CF",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224458.png?padding=0.7"
+      },
+      {
+       "rank": 61,
+       "name": "Patrik Schick",
+       "position": "ST",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234236.png?padding=0.7"
+      },
+      {
+       "rank": 62,
+       "name": "Gerard Moreno",
+       "position": "ST",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208093.png?padding=0.7"
+      },
+      {
+       "rank": 63,
+       "name": "Jorginho",
+       "position": "CDM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p205498.png?padding=0.7"
+      },
+      {
+       "rank": 64,
+       "name": "Iago Aspas",
+       "position": "ST",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p192629.png?padding=0.7"
+      },
+      {
+       "rank": 65,
+       "name": "Kyle Walker",
+       "position": "RB",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188377.png?padding=0.7"
+      },
+      {
+       "rank": 66,
+       "name": "Niklas Sule",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212190.png?padding=0.7"
+      },
+      {
+       "rank": 67,
+       "name": "Filip Kostic",
+       "position": "LM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208574.png?padding=0.7"
+      },
+      {
+       "rank": 68,
+       "name": "Pedri",
+       "position": "CM",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p251854.png?padding=0.7"
+      },
+      {
+       "rank": 69,
+       "name": "Jamie Vardy",
+       "position": "ST",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208830.png?padding=0.7"
+      },
+      {
+       "rank": 70,
+       "name": "Serge Gnabry",
+       "position": "RM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206113.png?padding=0.7"
+      },
+      {
+       "rank": 71,
+       "name": "Matthijs de Ligt",
+       "position": "CB",
+       "basePrice": 35,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235243.png?padding=0.7"
+      },
+      {
+       "rank": 72,
+       "name": "Jordi Alba",
+       "position": "LB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189332.png?padding=0.7"
+      },
+      {
+       "rank": 73,
+       "name": "Sergio Busquets",
+       "position": "CDM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p189511.png?padding=0.7"
+      },
+      {
+       "rank": 74,
+       "name": "Pierre-Emerick Aubameyang",
+       "position": "ST",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p188567.png?padding=0.7"
+      },
+      {
+       "rank": 75,
+       "name": "Yannick Carrasco",
+       "position": "LM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p208418.png?padding=0.7"
+      },
+      {
+       "rank": 76,
+       "name": "Marcos Acuna",
+       "position": "LB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p224334.png?padding=0.7"
+      },
+      {
+       "rank": 77,
+       "name": "Joao Felix",
+       "position": "CF",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p242444.png?padding=0.7"
+      },
+      {
+       "rank": 78,
+       "name": "Jude Bellingham",
+       "position": "CM",
+       "basePrice": 45,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p252371.png?padding=0.7"
+      },
+      {
+       "rank": 79,
+       "name": "Martin Odegaard",
+       "position": "CAM",
+       "basePrice": 40,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p222665.png?padding=0.7"
+      },
+      {
+       "rank": 80,
+       "name": "Dusan Vlahovic",
+       "position": "ST",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p246430.png?padding=0.7"
+      },
+      {
+       "rank": 82,
+       "name": "Mason Mount",
+       "position": "CAM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p233064.png?padding=0.7"
+      },
+      {
+       "rank": 83,
+       "name": "Achraf Hakimi",
+       "position": "RB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235212.png?padding=0.7"
+      },
+      {
+       "rank": 84,
+       "name": "Declan Rice",
+       "position": "CDM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234378.png?padding=0.7"
+      },
+      {
+       "rank": 85,
+       "name": "Jack Grealish",
+       "position": "LW",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p206517.png?padding=0.7"
+      },
+      {
+       "rank": 86,
+       "name": "Jules Kounde",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241486.png?padding=0.7"
+      },
+      {
+       "rank": 87,
+       "name": "Oyarzabal",
+       "position": "LM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230142.png?padding=0.7"
+      },
+      {
+       "rank": 88,
+       "name": "Federico Valverde",
+       "position": "CM",
+       "basePrice": 45,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p239053.png?padding=0.7"
+      },
+      {
+       "rank": 89,
+       "name": "Marcos Llorente",
+       "position": "RM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p226161.png?padding=0.7"
+      },
+      {
+       "rank": 90,
+       "name": "Franck Yannick Kessie",
+       "position": "CDM",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p230938.png?padding=0.7"
+      },
+      {
+       "rank": 91,
+       "name": "Rodrigo Javier De Paul",
+       "position": "CM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p212616.png?padding=0.7"
+      },
+      {
+       "rank": 92,
+       "name": "Sandro Tonali",
+       "position": "CDM",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p241096.png?padding=0.7"
+      },
+      {
+       "rank": 93,
+       "name": "Eder Militao",
+       "position": "CB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p240130.png?padding=0.7"
+      },
+      {
+       "rank": 94,
+       "name": "Federico Chiesa",
+       "position": "LW",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p235805.png?padding=0.7"
+      },
+      {
+       "rank": 95,
+       "name": "Lucas Hernandez",
+       "position": "CB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p220814.png?padding=0.7"
+      },
+      {
+       "rank": 96,
+       "name": "Reece James",
+       "position": "RB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p238074.png?padding=0.7"
+      },
+      {
+       "rank": 97,
+       "name": "Alphonso Davies",
+       "position": "LB",
+       "basePrice": 30,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p234396.png?padding=0.7"
+      },
+      {
+       "rank": 98,
+       "name": "Angel Di Maria",
+       "position": "CF",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p183898.png?padding=0.7"
+      },
+      {
+       "rank": 99,
+       "name": "Carvajal",
+       "position": "RB",
+       "basePrice": 20,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p204963.png?padding=0.7"
+      },
+      {
+       "rank": 100,
+       "name": "Kieran Trippier",
+       "position": "RB",
+       "basePrice": 25,
+       "pic": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-portraits\/p186345.png?padding=0.7"
+      }
+     ]
+     
